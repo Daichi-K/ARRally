@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: bc5dedbc799e64c829995078e7b6b126
+timeCreated: 1473415865
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: B_ha_1
+    100002: B_ha_tip
+    100004: F_ha_1
+    100006: F_ha_tip
+    100008: joint12
+    100010: joint4
+    100012: joint6
+    100014: joint6 1
+    100016: joint8
+    100018: joint8 1
+    100020: L_ha_1
+    100022: L_ha_2
+    100024: L_leave_1
+    100026: L_leave_2
+    100028: L_leave_3
+    100030: L_leave_4
+    100032: L_leave_5
+    100034: leave_tip
+    100036: polySurface1
+    100038: polySurface2
+    100040: polySurface3
+    100042: pPlane10
+    100044: pPlane11
+    100046: pPlane12
+    100048: pPlane13
+    100050: pPlane3
+    100052: pPlane4
+    100054: pPlane5
+    100056: pPlane6
+    100058: pPlane7
+    100060: pPlane9
+    100062: R_ha_1
+    100064: R_ha_2
+    100066: R_leave_1
+    100068: R_leave_2
+    100070: R_leave_3
+    100072: R_leave_4
+    100074: R_leave_5
+    100076: sita_leave_tukene
+    100078: sita_tip
+    100080: //RootNode
+    400000: B_ha_1
+    400002: B_ha_tip
+    400004: F_ha_1
+    400006: F_ha_tip
+    400008: joint12
+    400010: joint4
+    400012: joint6
+    400014: joint6 1
+    400016: joint8
+    400018: joint8 1
+    400020: L_ha_1
+    400022: L_ha_2
+    400024: L_leave_1
+    400026: L_leave_2
+    400028: L_leave_3
+    400030: L_leave_4
+    400032: L_leave_5
+    400034: leave_tip
+    400036: polySurface1
+    400038: polySurface2
+    400040: polySurface3
+    400042: pPlane10
+    400044: pPlane11
+    400046: pPlane12
+    400048: pPlane13
+    400050: pPlane3
+    400052: pPlane4
+    400054: pPlane5
+    400056: pPlane6
+    400058: pPlane7
+    400060: pPlane9
+    400062: R_ha_1
+    400064: R_ha_2
+    400066: R_leave_1
+    400068: R_leave_2
+    400070: R_leave_3
+    400072: R_leave_4
+    400074: R_leave_5
+    400076: sita_leave_tukene
+    400078: sita_tip
+    400080: //RootNode
+    4300000: polySurface3
+    4300002: pPlane3
+    4300004: pPlane4
+    4300006: pPlane5
+    4300008: polySurface1
+    4300010: polySurface2
+    4300012: pPlane6
+    4300014: pPlane7
+    4300016: pPlane9
+    4300018: pPlane10
+    4300020: pPlane11
+    4300022: pPlane12
+    4300024: pPlane13
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface1
+    13700002: polySurface2
+    13700004: polySurface3
+    13700006: pPlane10
+    13700008: pPlane11
+    13700010: pPlane12
+    13700012: pPlane13
+    13700014: pPlane3
+    13700016: pPlane4
+    13700018: pPlane5
+    13700020: pPlane6
+    13700022: pPlane7
+    13700024: pPlane9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: polySurface1
+        weight: 1
+      - path: polySurface2
+        weight: 1
+      - path: polySurface3
+        weight: 1
+      - path: pPlane3
+        weight: 1
+      - path: pPlane4
+        weight: 1
+      - path: pPlane5
+        weight: 1
+      - path: pPlane6
+        weight: 1
+      - path: pPlane7
+        weight: 1
+      - path: pPlane9
+        weight: 1
+      - path: pPlane10
+        weight: 1
+      - path: pPlane11
+        weight: 1
+      - path: pPlane12
+        weight: 1
+      - path: pPlane13
+        weight: 1
+      - path: sita_tip
+        weight: 1
+      - path: sita_tip/sita_leave_tukene
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1/L_leave_2
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1/L_leave_2/joint8
+          1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1/L_leave_2/joint8
+          1/L_leave_3
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1/L_leave_2/joint8
+          1/L_leave_3/L_leave_4
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint4/L_leave_1/joint6 1/L_leave_2/joint8
+          1/L_leave_3/L_leave_4/L_leave_5
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6/R_leave_2
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6/R_leave_2/joint8
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6/R_leave_2/joint8/R_leave_3
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6/R_leave_2/joint8/R_leave_3/R_leave_4
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/joint12/R_leave_1/joint6/R_leave_2/joint8/R_leave_3/R_leave_4/R_leave_5
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/B_ha_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/B_ha_1/B_ha_tip
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/F_ha_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/F_ha_1/F_ha_tip
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/L_ha_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/L_ha_1/L_ha_2
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/R_ha_1
+        weight: 1
+      - path: sita_tip/sita_leave_tukene/leave_tip/R_ha_1/R_ha_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

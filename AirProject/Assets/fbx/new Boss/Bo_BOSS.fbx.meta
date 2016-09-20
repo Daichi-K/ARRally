@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 764b298ddc59c3045b93f8bfd1695043
+timeCreated: 1466961019
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boss
+    100004: Clothe1
+    100006: Face1
+    100008: group2
+    100010: hand
+    100012: hat1
+    100014: L_hand1
+    100016: L_ude2
+    100018: L_ude3
+    100020: Mask1
+    100022: neji_10
+    100024: neji_6
+    100026: neji_7
+    100028: neji_8
+    100030: neji_9
+    100032: R_hand1
+    100034: steck1
+    400000: //RootNode
+    400002: boss
+    400004: Clothe1
+    400006: Face1
+    400008: group2
+    400010: hand
+    400012: hat1
+    400014: L_hand1
+    400016: L_ude2
+    400018: L_ude3
+    400020: Mask1
+    400022: neji_10
+    400024: neji_6
+    400026: neji_7
+    400028: neji_8
+    400030: neji_9
+    400032: R_hand1
+    400034: steck1
+    2300000: Clothe1
+    2300002: Face1
+    2300004: hat1
+    2300006: L_hand1
+    2300008: L_ude2
+    2300010: L_ude3
+    2300012: Mask1
+    2300014: neji_10
+    2300016: neji_6
+    2300018: neji_7
+    2300020: neji_8
+    2300022: neji_9
+    2300024: R_hand1
+    2300026: steck1
+    3300000: Clothe1
+    3300002: Face1
+    3300004: hat1
+    3300006: L_hand1
+    3300008: L_ude2
+    3300010: L_ude3
+    3300012: Mask1
+    3300014: neji_10
+    3300016: neji_6
+    3300018: neji_7
+    3300020: neji_8
+    3300022: neji_9
+    3300024: R_hand1
+    3300026: steck1
+    4300000: neji_6
+    4300002: neji_7
+    4300004: neji_8
+    4300006: neji_9
+    4300008: neji_10
+    4300010: Face1
+    4300012: steck1
+    4300014: Mask1
+    4300016: Clothe1
+    4300018: L_ude2
+    4300020: hat1
+    4300022: L_ude3
+    4300024: L_hand1
+    4300026: R_hand1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

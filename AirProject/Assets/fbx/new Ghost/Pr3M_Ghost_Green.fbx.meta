@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 1f4c5f7d1bac6e04d9223276fb51041b
+timeCreated: 1473866218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: atama
+    100002: kannsetu1_L
+    100004: kannsetu1_R
+    100006: kata
+    100008: kata_L
+    100010: kata_R
+    100012: kubi
+    100014: mannsetu2_L
+    100016: mannsetu2_R
+    100018: mimi_L
+    100020: mimi_R
+    100022: mimisaki_L
+    100024: mimisaki_R
+    100026: //RootNode
+    100028: sita
+    100030: SmartCombine_1
+    100032: te_L
+    100034: te_R
+    400000: atama
+    400002: kannsetu1_L
+    400004: kannsetu1_R
+    400006: kata
+    400008: kata_L
+    400010: kata_R
+    400012: kubi
+    400014: mannsetu2_L
+    400016: mannsetu2_R
+    400018: mimi_L
+    400020: mimi_R
+    400022: mimisaki_L
+    400024: mimisaki_R
+    400026: //RootNode
+    400028: sita
+    400030: SmartCombine_1
+    400032: te_L
+    400034: te_R
+    4300000: SmartCombine_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: SmartCombine_1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: sita
+        weight: 1
+      - path: sita/kata
+        weight: 1
+      - path: sita/kata/kata_L
+        weight: 1
+      - path: sita/kata/kata_L/kannsetu1_L
+        weight: 1
+      - path: sita/kata/kata_L/kannsetu1_L/mannsetu2_L
+        weight: 1
+      - path: sita/kata/kata_L/kannsetu1_L/mannsetu2_L/te_L
+        weight: 1
+      - path: sita/kata/kata_R
+        weight: 1
+      - path: sita/kata/kata_R/kannsetu1_R
+        weight: 1
+      - path: sita/kata/kata_R/kannsetu1_R/mannsetu2_R
+        weight: 1
+      - path: sita/kata/kata_R/kannsetu1_R/mannsetu2_R/te_R
+        weight: 1
+      - path: sita/kata/kubi
+        weight: 1
+      - path: sita/kata/kubi/atama
+        weight: 1
+      - path: sita/kata/kubi/mimi_L
+        weight: 1
+      - path: sita/kata/kubi/mimi_L/mimisaki_L
+        weight: 1
+      - path: sita/kata/kubi/mimi_R
+        weight: 1
+      - path: sita/kata/kubi/mimi_R/mimisaki_R
+        weight: 1
+      - path: SmartCombine_1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

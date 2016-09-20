@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 6b094bec0987945639e81ab61e0b1cda
+timeCreated: 1465614431
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BoM_BOSS_base_body1
+    100004: BoM_BOSS_base_bousi1
+    100006: BoM_BOSS_base_huku1
+    100008: BoM_BOSS_base_kamen
+    100010: BoM_BOSS_base_pCube1_Dup_8
+    100012: gear_1
+    100014: gear_2
+    100016: gear_3
+    100018: gear_4
+    100020: gear_5
+    100022: j_bousi_L
+    100024: j_bousi_R
+    100026: j_head
+    100028: j_hiji_L
+    100030: j_hiji_R
+    100032: j_kata_L
+    100034: j_kata_R
+    100036: j_koshi
+    100038: j_kubi
+    100040: j_mimi_L
+    100042: j_mimi_R
+    100044: j_te_L
+    100046: j_te_R
+    100048: j_tekubi_L
+    100050: j_tekubi_R
+    100052: neji01
+    100054: neji02
+    100056: neji03
+    100058: neji04
+    100060: neji05
+    400000: //RootNode
+    400002: BoM_BOSS_base_body1
+    400004: BoM_BOSS_base_bousi1
+    400006: BoM_BOSS_base_huku1
+    400008: BoM_BOSS_base_kamen
+    400010: BoM_BOSS_base_pCube1_Dup_8
+    400012: gear_1
+    400014: gear_2
+    400016: gear_3
+    400018: gear_4
+    400020: gear_5
+    400022: j_bousi_L
+    400024: j_bousi_R
+    400026: j_head
+    400028: j_hiji_L
+    400030: j_hiji_R
+    400032: j_kata_L
+    400034: j_kata_R
+    400036: j_koshi
+    400038: j_kubi
+    400040: j_mimi_L
+    400042: j_mimi_R
+    400044: j_te_L
+    400046: j_te_R
+    400048: j_tekubi_L
+    400050: j_tekubi_R
+    400052: neji01
+    400054: neji02
+    400056: neji03
+    400058: neji04
+    400060: neji05
+    4300000: BoM_BOSS_base_kamen
+    4300002: BoM_BOSS_base_bousi1
+    4300004: BoM_BOSS_base_huku1
+    4300006: gear_1
+    4300008: gear_2
+    4300010: gear_3
+    4300012: gear_4
+    4300014: gear_5
+    4300016: BoM_BOSS_base_body1
+    4300018: BoM_BOSS_base_pCube1_Dup_8
+    7400000: Attack
+    9500000: //RootNode
+    13700000: BoM_BOSS_base_body1
+    13700002: BoM_BOSS_base_bousi1
+    13700004: BoM_BOSS_base_huku1
+    13700006: BoM_BOSS_base_kamen
+    13700008: BoM_BOSS_base_pCube1_Dup_8
+    13700010: gear_1
+    13700012: gear_2
+    13700014: gear_3
+    13700016: gear_4
+    13700018: gear_5
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BoM_BOSS_base_body1
+        weight: 1
+      - path: BoM_BOSS_base_bousi1
+        weight: 1
+      - path: BoM_BOSS_base_huku1
+        weight: 1
+      - path: BoM_BOSS_base_kamen
+        weight: 1
+      - path: BoM_BOSS_base_pCube1_Dup_8
+        weight: 1
+      - path: gear_1
+        weight: 1
+      - path: gear_2
+        weight: 1
+      - path: gear_3
+        weight: 1
+      - path: gear_4
+        weight: 1
+      - path: gear_5
+        weight: 1
+      - path: j_koshi
+        weight: 1
+      - path: j_koshi/j_kubi
+        weight: 1
+      - path: j_koshi/j_kubi/j_head
+        weight: 1
+      - path: j_koshi/j_kubi/j_head/j_bousi_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_head/j_bousi_L/j_mimi_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_head/j_bousi_R
+        weight: 1
+      - path: j_koshi/j_kubi/j_head/j_bousi_R/j_mimi_R
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_L/j_hiji_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_L/j_hiji_L/j_tekubi_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_L/j_hiji_L/j_tekubi_L/j_te_L
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_R
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_R/j_hiji_R
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_R/j_hiji_R/j_tekubi_R
+        weight: 1
+      - path: j_koshi/j_kubi/j_kata_R/j_hiji_R/j_tekubi_R/j_te_R
+        weight: 1
+      - path: j_koshi/neji01
+        weight: 1
+      - path: j_koshi/neji02
+        weight: 1
+      - path: j_koshi/neji03
+        weight: 1
+      - path: j_koshi/neji04
+        weight: 1
+      - path: j_koshi/neji05
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

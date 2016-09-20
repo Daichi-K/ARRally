@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 20f039a099326de49afa74ab03e82cdd
+timeCreated: 1473866218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: atama
+    100002: body1
+    100004: Ghost_purple
+    100006: hige_L_01
+    100008: hige_L_02
+    100010: hige_L_03
+    100012: hige_M_01
+    100014: hige_M_02
+    100016: hige_R_01
+    100018: hige_R_02
+    100020: hige_R_03
+    100022: kubi
+    100024: L_hiji
+    100026: L_kata
+    100028: L_te
+    100030: L_tekubi
+    100032: //RootNode
+    100034: R_hiji
+    100036: R_kata
+    100038: R_te
+    100040: R_tekubi
+    400000: atama
+    400002: body1
+    400004: Ghost_purple
+    400006: hige_L_01
+    400008: hige_L_02
+    400010: hige_L_03
+    400012: hige_M_01
+    400014: hige_M_02
+    400016: hige_R_01
+    400018: hige_R_02
+    400020: hige_R_03
+    400022: kubi
+    400024: L_hiji
+    400026: L_kata
+    400028: L_te
+    400030: L_tekubi
+    400032: //RootNode
+    400034: R_hiji
+    400036: R_kata
+    400038: R_te
+    400040: R_tekubi
+    4300000: Ghost_purple
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Ghost_purple
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body1
+        weight: 1
+      - path: body1/kubi
+        weight: 1
+      - path: body1/kubi/atama
+        weight: 1
+      - path: body1/kubi/atama/hige_L_01
+        weight: 1
+      - path: body1/kubi/atama/hige_L_01/hige_L_02
+        weight: 1
+      - path: body1/kubi/atama/hige_L_01/hige_L_02/hige_L_03
+        weight: 1
+      - path: body1/kubi/atama/hige_R_01
+        weight: 1
+      - path: body1/kubi/atama/hige_R_01/hige_R_02
+        weight: 1
+      - path: body1/kubi/atama/hige_R_01/hige_R_02/hige_R_03
+        weight: 1
+      - path: body1/kubi/hige_M_01
+        weight: 1
+      - path: body1/kubi/hige_M_01/hige_M_02
+        weight: 1
+      - path: body1/kubi/L_kata
+        weight: 1
+      - path: body1/kubi/L_kata/L_hiji
+        weight: 1
+      - path: body1/kubi/L_kata/L_hiji/L_tekubi
+        weight: 1
+      - path: body1/kubi/L_kata/L_hiji/L_tekubi/L_te
+        weight: 1
+      - path: body1/kubi/R_kata
+        weight: 1
+      - path: body1/kubi/R_kata/R_hiji
+        weight: 1
+      - path: body1/kubi/R_kata/R_hiji/R_tekubi
+        weight: 1
+      - path: body1/kubi/R_kata/R_hiji/R_tekubi/R_te
+        weight: 1
+      - path: Ghost_purple
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

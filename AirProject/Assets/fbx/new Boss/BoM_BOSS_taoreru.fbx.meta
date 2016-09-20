@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 83b01f1b86823ab4ba1ecf3495bf76f8
+timeCreated: 1466960412
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: boss
+    100004: Bou_TIp
+    100006: Clothe
+    100008: Face
+    100010: group2
+    100012: hand
+    100014: hat
+    100016: Head
+    100018: joint1
+    100020: joint2
+    100022: joint3
+    100024: joint4
+    100026: joint5
+    100028: Koshi
+    100030: Kubi
+    100032: L_hand
+    100034: L_Hat
+    100036: L_Hat_tip
+    100038: L_Hiji
+    100040: L_kata
+    100042: L_Te_tip
+    100044: L_ude
+    100046: L_ude1
+    100048: Mask
+    100050: Mune
+    100052: neji_1
+    100054: neji_2
+    100056: neji_3
+    100058: neji_4
+    100060: neji_5
+    100062: R_hand
+    100064: R_Hat
+    100066: R_Hat_tip
+    100068: R_Hiji
+    100070: R_kata
+    100072: R_Te_tip
+    100074: steck
+    400000: //RootNode
+    400002: boss
+    400004: Bou_TIp
+    400006: Clothe
+    400008: Face
+    400010: group2
+    400012: hand
+    400014: hat
+    400016: Head
+    400018: joint1
+    400020: joint2
+    400022: joint3
+    400024: joint4
+    400026: joint5
+    400028: Koshi
+    400030: Kubi
+    400032: L_hand
+    400034: L_Hat
+    400036: L_Hat_tip
+    400038: L_Hiji
+    400040: L_kata
+    400042: L_Te_tip
+    400044: L_ude
+    400046: L_ude1
+    400048: Mask
+    400050: Mune
+    400052: neji_1
+    400054: neji_2
+    400056: neji_3
+    400058: neji_4
+    400060: neji_5
+    400062: R_hand
+    400064: R_Hat
+    400066: R_Hat_tip
+    400068: R_Hiji
+    400070: R_kata
+    400072: R_Te_tip
+    400074: steck
+    4300000: Face
+    4300002: steck
+    4300004: Mask
+    4300006: Clothe
+    4300008: neji_2
+    4300010: neji_1
+    4300012: neji_3
+    4300014: neji_4
+    4300016: neji_5
+    4300018: L_ude1
+    4300020: hat
+    4300022: L_ude
+    4300024: L_hand
+    4300026: R_hand
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Clothe
+    13700002: Face
+    13700004: hat
+    13700006: L_hand
+    13700008: L_ude
+    13700010: L_ude1
+    13700012: Mask
+    13700014: neji_1
+    13700016: neji_2
+    13700018: neji_3
+    13700020: neji_4
+    13700022: neji_5
+    13700024: R_hand
+    13700026: steck
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

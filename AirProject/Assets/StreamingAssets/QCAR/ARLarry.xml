@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="FireMaker" size="1.000000 1.000000" />
+    <ImageTarget name="ThunderWater" size="1.000000 1.000000" />
+    <ImageTarget name="SoilMaker" size="1.000000 1.000000" />
+    <ImageTarget name="WaterMaker" size="1.000000 1.000000" />
+    <ImageTarget name="NomalMaker" size="1.000000 1.000000" />
+    <ImageTarget name="enaji" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
